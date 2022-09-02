@@ -1,0 +1,133 @@
+.mainC{
+    width: 100%;
+    height:100%;
+    background-color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    /* display: flex;
+    justify-content: center; */
+    /* margin-top: 30px; */
+
+}
+
+
+
+.container{
+
+    width: auto;
+    height:auto;
+    color:black;
+    /* font-family: "Segoe UI",Arial,sans-serif; */
+    /* display: flex; */
+    /* justify-content: center; */
+
+}
+.c1{
+    width: 50%;
+    height: 50px;
+    background-color: white;
+    /* margin-top: 50px; */
+}
+.c2{
+    width: 50%;
+    height: auto;
+    background-color:white;
+}
+
+.text{
+    margin-bottom: 200px;
+}
+.mainC1{
+    /* margin-top: 50px; */
+    width: 50%;
+    height:100vh;
+    display: flex;
+    margin: 0px auto;
+    justify-content: space-between;
+    background-color: whitw ;
+    
+}
+.i1{
+width: 45%;
+    height:40px ;
+}
+.i2{
+    width: 45%;
+    height:40px ;
+}
+.i3{
+    width: 100%;
+    height: 40px;
+    margin-top: 10px;
+    
+    
+}
+
+.i4{
+    display: flex;
+    justify-content: space-between;
+}
+.h{
+    text-align: left;
+}
+.button{
+   color: white;
+   float: right;
+    width: auto;
+    background-color: black;
+    height: 30px;
+    margin-top: 15px;
+}
+.button:hover{
+    background-color:brown ;
+}
+
+
+
+
+ 
+
+/* /*server  */
+/* firebased cloud */
+
+.sheet{
+    height: auto;
+    width: 200px;
+    background-color: white;
+   /* display: flex;justify-content: space-between; */
+    border:1px solid black ;
+    border-radius: 10px;
+    word-wrap: break-word;
+    padding: 25px;
+    /* /* margin-left: 40px; */
+}
+.mainsheet{
+    display: flex;
+    /* justify-content: space-evenly; */
+    gap: 20px;
+    flex-wrap: wrap;
+    
+}
+.viewButton{
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+
+   /* margin: 0px auto; */
+  /* width: 150px; */ 
+  /* background-color: red; */
+}
+.details{
+     /* margin: 0px auto;  */
+ /* display: flex; */
+/* height: auto;  */
+/* width: 200px; */
+/* justify-content: center; */
+margin-left: 120px;
+
+}.b1tton:hover{
+    background-color: yellow;
+}
